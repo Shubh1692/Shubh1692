@@ -20,6 +20,12 @@ continuous learning and growth and that provides opportunities to work on challe
 
 <a  href="https://www.github.com/Shubh1692"  target="_blank"  rel="noreferrer"><img src="https://img.shields.io/github/followers/Shubh1692?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"  /></a>
 
+### Socials
+<p  align="left">
+<a  href="https://www.linkedin.com/in/svijay1692"  target="_blank"  rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"  width="32"  height="32"  /></a> 
+<a  href="https://discord.com/users/Shubh1618#9797"  target="_blank"  rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"  width="32"  height="32"  /></a> <a  href="http://www.instagram.com/__.nightcoder.__/"  target="_blank"  rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  width="32"  height="32"  /></a><a  href="https://www.stackoverflow.com/users/6216242/shubham-vijay-vargiy"  target="_blank"  rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"  width="32"  height="32"  /></a></p>
+
+
 ### Skills
 
 <p  align="left">
@@ -61,10 +67,6 @@ continuous learning and growth and that provides opportunities to work on challe
 <a  href="https://web3js.readthedocs.io/en/v1.7.1/#"  target="_blank"  rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg"  width="36"  height="36"  alt="Web3Js"  /></a>
 </p>
 
-### Socials
-<p  align="left">
-<a  href="https://www.linkedin.com/in/svijay1692"  target="_blank"  rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"  width="32"  height="32"  /></a> 
-<a  href="https://discord.com/users/Shubh1618#9797"  target="_blank"  rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"  width="32"  height="32"  /></a> <a  href="http://www.instagram.com/__.nightcoder.__/"  target="_blank"  rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  width="32"  height="32"  /></a><a  href="https://www.stackoverflow.com/users/6216242/shubham-vijay-vargiy"  target="_blank"  rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"  width="32"  height="32"  /></a></p>
 
 ### Badges
 <b>My GitHub Stats</b>
