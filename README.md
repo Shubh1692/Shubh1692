@@ -2,14 +2,17 @@ Hi 👋 My name is Shubham Vijay Vargiy
 =====================================
 Senior Full Stack Developer
 ---------------------------
-Career path initiated as a front-end developer and worked upon Node, ReactJS, React-Native, Angular and the Ionic Framework. Specialised in ReactJS, Angular, React Native, and IONIC frameworks with end to end solutions. Backend development through NodeJS, Python Django with the 5 years out of 6.5 year of total experience. Delivering output under Agile/Scrum environment and always eager to taking on obstacles to enhance productivity
+I am a Full Stack Developer with 7 years of experience in Node.js, React, React-native, Angular, Python and Ionic . Originally from Jaipur, I
+have worked on a wide range of projects that have enabled me to hone my skills and expand my knowledge. My passion for web development
+drives me to create exceptional web applications that are both user-friendly and functional. I am excited to join a team that values
+continuous learning and growth and that provides opportunities to work on challenging projects.
 * 🌍 I'm based in Jaipur Rajasthan India
 
 * 🖥️ See my portfolio at [AngleList](http://angel.co/u/Shubh1692)
 
 * ✉️ You can contact me at [svijay1692@gmail.com](mailto:svijay1692@gmail.com)
 
-* 🚀 I'm currently working on [Reservzy](http://app.reservzy.com/)
+* 🚀 I'm currently working on [Siam Makro Public Company Limited](http://app.reservzy.com/](https://www.siammakro.co.th/en/about_history.php)
 
 * 🧠 I'm learning Python, Cloud Computing
 
