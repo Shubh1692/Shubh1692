@@ -12,7 +12,7 @@ continuous learning and growth and that provides opportunities to work on challe
 
 * ✉️ You can contact me at [svijay1692@gmail.com](mailto:svijay1692@gmail.com) -->
 
-* 🚀 I'm currently working on [Siam Makro Public Company Limited](https://www.siammakro.co.th/en/about_history.php)
+<!-- * 🚀 I'm currently working on [Siam Makro Public Company Limited](https://www.siammakro.co.th/en/about_history.php) -->
 
 * 🧠 I'm learning Python, Cloud Computing
 
