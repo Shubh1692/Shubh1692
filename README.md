@@ -2,11 +2,7 @@ Hi 👋 My name is Byte Knight
 =====================================
 Senior Full Stack Developer
 ---------------------------
-I am a Full Stack Developer with 7 years of experience in Node.js, React, React-native, Angular, Python and Ionic . Originally from Jaipur, I
-have worked on a wide range of projects that have enabled me to hone my skills and expand my knowledge. My passion for web development
-drives me to create exceptional web applications that are both user-friendly and functional. I am excited to join a team that values
-continuous learning and growth and that provides opportunities to work on challenging projects.
-* 🌍 I'm based in Jaipur Rajasthan India
+I am a Senior Full Stack Developer with 9 years of experience in full-stack development, specializing in Node.js, React, React Native, Angular, Python, and Ionic. Based in Jaipur, India, I have contributed to a wide variety of impactful projects, enhancing my technical skills and delivering value to clients. My dedication to building innovative and user-friendly applications aligns with my passion for web development. I’m enthusiastic about joining teams that foster learning, growth, and challenging opportunities.
 
 <!-- * 🖥️ See my portfolio at [AngleList](http://angel.co/u/Shubh1692) 
 
@@ -14,9 +10,13 @@ continuous learning and growth and that provides opportunities to work on challe
 
 <!-- * 🚀 I'm currently working on [Siam Makro Public Company Limited](https://www.siammakro.co.th/en/about_history.php) -->
 
-* 🧠 I'm learning Python, Cloud Computing
+* 🌍 I'm based in Jaipur, Rajasthan, India
 
-* 🤝 I'm open to collaborating on hybrid application development, PWA app development   
+* 🧠 I’m exploring advanced Python integrations and cloud technologies
+
+* 🤝 I’m open to collaborations on hybrid application development and PWA projects
+
+*  📧 Contact Me: svijay1692@gmail.com | +91-8952988681
 
 <!--  <a  href="https://www.github.com/Shubh1692"  target="_blank"  rel="noreferrer"><img src="https://img.shields.io/github/followers/Shubh1692?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"  /></a> -->
 <!-- 
