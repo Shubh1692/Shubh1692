@@ -1,4 +1,4 @@
-<h1 align="center">🚀 NightCoder — Building the Web, Riding the Stack</h1>
+<h1 align="center">🌑 NightCoder — Where Every Commit is a Midnight Masterpiece</h1>
 
 <p align="center">
   <em>aka Shubham Vijay Vargiy</em>  
