@@ -154,7 +154,6 @@ Manual workflows causing inefficiency in operations
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubh1692&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh1692&theme=tokyonight&hide_border=true" />
 </p>
 
