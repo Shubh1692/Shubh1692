@@ -2,6 +2,8 @@
 
 ### *Founding Engineer · Staff Full-Stack Engineer · Distributed Systems Architect*
 
+🌐 **Portfolio:** https://www.shubhamvijay.dev
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Designing+Systems+That+Scale;Building+0→1+Products;Distributed+Systems+%2B+AI;Engineering+Real+Impact&center=true&width=700&height=45">
 </p>
